@@ -1,6 +1,6 @@
-clear
-close all
-clc
+/*
+ * Developer : Prakriti Chintalapoodi - c.prakriti@gmail.com 
+*/
 
 R1 = zeros(40);
 G1 = R1;
